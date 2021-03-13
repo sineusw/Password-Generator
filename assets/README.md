@@ -17,4 +17,4 @@ Screenshots
 ![code refactor demo](/assets/images/picture6.png)
 
 
-description, image, and deployed link for the project
+Link To Password Generator- https://sineusw.github.io/Password-Generator/
